@@ -31,7 +31,7 @@
 <br />
 <br />
 <p align="center">
-<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajabilal555&show_icons=true&hide_border=true" />
+<img align="center" alt="rajabilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajabilal555&show_icons=true&hide_border=false" />
 </p>
 
 
