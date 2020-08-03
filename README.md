@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on _Learning_
 - 🌱 I'm currently learning _Flutter_ and _p5js_
-- 👯 I'm looking to collaborate on some OpenSource Projects
+- 👯 I'm looking to work on Freelance projects
 - ⚡ Fun fact: _I've been intereseted in programming and everything related to it since i was 12_
 
 ## Connect with me
