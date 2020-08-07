@@ -2,7 +2,7 @@
 # Hi there, I'm Bilal 👋
 
 - 🔭 I'm currently working on _Learning_
-- 🌱 I'm currently learning _Flutter_ and _p5js_
+- 🌱 I'm currently learning _Flutter_ and _Yii2_
 - 👯 I'm looking to work on Freelance projects
 - ⚡ Fun fact: _I've been intereseted in programming and everything related to it since i was 12_
 
