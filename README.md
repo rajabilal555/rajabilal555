@@ -1,10 +1,14 @@
 
 # Hi there, I'm Bilal 👋
 
-- 🔭 I'm currently working on _Learning_
-- 🌱 I'm currently learning _Flutter_ and _Yii2_
-- 👯 I'm looking to work on Freelance projects
-- ⚡ Fun fact: _I've been intereseted in programming and everything related to it since i was 12_
++ 🔭 I'm currently working on _Learning_
++ 🌱 I'm currently learning _Flutter_ and _Yii2_
++ 👯 I'm looking to work on Freelance projects
++ ⚡ Fun fact: _I've been intereseted in programming and everything related to it since i was 12_
+
+
+- 🎨 Portfolio: https://rajabilal555.github.io
+- 💼 LinkedIn: https://linkedin.com/in/bilalraja555/
 
 ## Connect with me
 
