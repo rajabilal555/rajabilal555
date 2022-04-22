@@ -1,15 +1,15 @@
 
 # Hi there, I'm Bilal 👋
 
-+ 🔭 I'm currently working on _Learning_
-+ 🌱 I'm currently learning _Flutter_ and _Yii2_
++ 🔭 I'm currently _Learning_, working a _Part-time Job_ and doing _Personal App Projects_
++ 🌱 I'm currently learning _Flutter_ and _Laravel_
 + 👯 I'm looking to work on Freelance projects
 + ⚡ Fun fact: _I've been intereseted in programming and everything related to it since i was 12_
 
 
 - 🎨 Portfolio: https://rajabilal555.github.io
 - 💼 LinkedIn: https://linkedin.com/in/bilalraja555/
-
+- ▶ PlayStore: https://play.google.com/store/apps/dev?id=7096445146314947153
 ## Connect with me
 
 [<img align="left" alt="Bilal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
