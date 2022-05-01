@@ -34,8 +34,12 @@
 
 <br />
 <br />
-<p align="center">
-<img align="center" alt="rajabilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajabilal555&show_icons=true&hide_border=false" />
+<!-- <p align="center"> -->
+ <p >
+  <img alt="rajabilal's Github Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajabilal555&theme=github_dark" /><br>
+  <br>
+  <img alt="rajabilal's Github Repo Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajabilal555&theme=github_dark" />
+<img  alt="rajabilal's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajabilal555&theme=github_dark" />
 </p>
 
 
