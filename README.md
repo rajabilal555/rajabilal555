@@ -1,15 +1,22 @@
 
-# Hi there, I'm Bilal 👋
+# Hi there, I'm Bilal <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />
 
-+ 🔭 I'm currently _Learning_, working a _Part-time Job_ and doing _Personal App Projects_
-+ 🌱 I'm currently learning _Flutter_ and _Laravel_
-+ 👯 I'm looking to work on Freelance projects
++ 🔭 I'm currently doing _Personal App Projects_ and _Studying_ for final year of my bachelors
++ 👯 I'm looking to work in a professional environment.
 + ⚡ Fun fact: _I've been intereseted in programming and everything related to it since i was 12_
+
++ 🌱 Technologies I'm looking forward to learn in 2023
+    - Rust
+    - Nextjs and Sveltekit
+    - TRPC
+    - Kubernetes
+
 
 
 - 🎨 Portfolio: https://rajabilal555.github.io
 - 💼 LinkedIn: https://linkedin.com/in/bilalraja555/
 - ▶ PlayStore: https://play.google.com/store/apps/dev?id=7096445146314947153
+
 ## Connect with me
 
 [<img align="left" alt="Bilal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
@@ -38,7 +45,7 @@
  <p >
   <img alt="rajabilal's Github Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajabilal555&theme=github_dark" /><br>
   <br>
-  <img alt="rajabilal's Github Repo Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajabilal555&theme=github_dark" />
+  <img alt="rajabilal's Github Repo Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajabilal555&theme=github_dark" />
 <img  alt="rajabilal's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajabilal555&theme=github_dark" />
 </p>
 
