@@ -45,7 +45,7 @@
  <p >
   <img alt="rajabilal's Github Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajabilal555&theme=github_dark" /><br>
   <br>
-  <img alt="rajabilal's Github Repo Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajabilal555&theme=github_dark" />
+  <img alt="rajabilal's Github Repo Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajabilal555&theme=github_dark" />
 <img  alt="rajabilal's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajabilal555&theme=github_dark" />
 </p>
 
