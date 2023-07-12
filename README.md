@@ -2,10 +2,11 @@
 # Hi there, I'm Bilal <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />
 
 + 🔭 I'm currently doing _Personal App Projects_ and _Studying_ for final year of my bachelors
++ 🌱 I'm currently looking for good career startup opportunities.
 + 👯 I'm looking to work in a professional environment.
-+ ⚡ Fun fact: _I've been intereseted in programming and everything related to it since i was 12_
++ ⚡ Fun fact: _I've been passionate about tech since the age of 12_
 
-+ 🌱 Technologies I'm looking forward to learn in 2023
++ 🏗 Technologies I'm looking forward to learn in 2023
     - Rust
     - Nextjs and Sveltekit
     - TRPC
