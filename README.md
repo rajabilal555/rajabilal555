@@ -14,17 +14,12 @@
 
 
 
+## Connect with me
+
 - 🎨 Portfolio: https://rajabilal555.github.io
 - 💼 LinkedIn: https://linkedin.com/in/bilalraja555/
 - ▶ PlayStore: https://play.google.com/store/apps/dev?id=7096445146314947153
 
-## Connect with me
-
-[<img align="left" alt="Bilal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Bilal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Bilal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br>
 
 ### Languages and Tools I have Used:
 
