@@ -3,7 +3,6 @@
 
 + 🔭 I'm currently doing _Personal App Projects_ and _Studying_ for final year of my bachelors
 + 🌱 I'm currently looking for good career startup opportunities.
-+ 👯 I'm looking to work in a professional environment.
 + ⚡ Fun fact: _I've been passionate about tech since the age of 12_
 
 + 🏗 Technologies I'm looking forward to learn in 2023
