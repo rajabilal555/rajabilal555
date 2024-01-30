@@ -12,13 +12,12 @@
 
 - 🔭 I'm doing _Personal App Projects_ and _Studying_ for final year of my bachelors
 - 🔰 I'm currently learning Rust and Vim motions.
-- 🌱 I'm looking for good career startup opportunities.
 - ⚡ Fun fact: _I've been passionate about tech since the age of 12_
 
 * 🏗 Technologies I'm looking forward to learn in 2023
-  - Rust
-  - Nextjs and Sveltekit
-  - Vim motions
+  - Rust ✅
+  - Nextjs and Sveltekit ✅
+  - Vim motions ✅
   - TRPC
 
 
@@ -56,6 +55,6 @@
 <p>
     <img alt="rajabilal's Github Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajabilal555&theme=github_dark" /><br>
     <br>
-    <img alt="rajabilal's Github Repo Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajabilal555&theme=github_dark" />
+    <img alt="rajabilal's Github Repo Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajabilal555&theme=github_dark" />
     <img  alt="rajabilal's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajabilal555&theme=github_dark" />
 </p>
