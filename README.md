@@ -14,11 +14,11 @@
 - 🔰 I'm currently learning Rust and Vim motions.
 - ⚡ Fun fact: _I've been passionate about tech since the age of 12_
 
-* 🏗 Technologies I'm looking forward to learn in 2023
-  - Rust ✅
-  - Nextjs and Sveltekit ✅
-  - Vim motions ✅
+* 🏗 Technologies I'm looking forward to learn in 2024-25
+  - GoLang
+  - Advanced Vim motions
   - TRPC
+  - LLMs
 
 
 ## Find me on
