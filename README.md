@@ -10,11 +10,11 @@
 
 # Hi there, I'm Bilal <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" /> 
 
-- 🔭 I'm doing _Personal App Projects_ and _Studying_ for final year of my bachelors
+- 🔭 I'm doing _Personal App Projects_ and _Working_ at halacarly.com as a Developer
 - 🔰 I'm currently learning Rust and Vim motions.
 - ⚡ Fun fact: _I've been passionate about tech since the age of 12_
 
-* 🏗 Technologies I'm looking forward to learn in 2024-25
+* 🏗 Technologies I'm looking forward to learn in 2025-26
   - GoLang
   - Advanced Vim motions
   - TRPC
